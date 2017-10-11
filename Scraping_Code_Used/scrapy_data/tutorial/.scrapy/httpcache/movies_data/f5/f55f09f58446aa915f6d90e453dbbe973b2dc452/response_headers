@@ -1,0 +1,11 @@
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Content-Encoding: gzip
+Content-Type: text/html
+Date: Thu, 28 Sep 2017 22:27:07 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Server: Server
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: master-only
+X-Xss-Protection: 1; mode=block

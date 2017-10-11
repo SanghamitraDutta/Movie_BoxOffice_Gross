@@ -1,0 +1,1026 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="PICS-Label" content='(PICS-1.1 "http://www.icra.org/ratingsv02.html" l gen true for "http://www.the-numbers.com/" r (cb 1 lz 1 nz 1 oz 1 vz 1) "http://www.rsac.org/ratingsv01.html" l gen true for "http://www.the-numbers.com/" r (n 0 s 0 v 0 l 0))'>
+<!--<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" >-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="format-detection" content="telephone=no">   <!-- for apple mobile --> 
+<meta property="fb:admins" content="521546213" />
+
+
+<meta name="viewport" content="initial-scale=1">
+<meta name="description" content="The budget of (nearly) every movie ever made">
+<meta name="robots" content="NOODP">
+<meta name="keywords" content="movies, box office, The Numbers, Numbers, daily box office, weekly box office, movie stars, dvd sales, Blu-ray sales, release schedule">
+<title>The Numbers - Movie Budgets</title>
+<link rel="stylesheet" href="/live/the-numbers.css" TYPE="text/css">
+ 
+<script async type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-1343128-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+ var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+ })();
+</script>
+<!-- Begin comScore Tag -->
+<script async>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "9873768" });
+(function() {
+ var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+ s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+ el.parentNode.insertBefore(s, el);
+ })();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=9873768&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+</head>
+<body>
+
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId            : '1585976611658631',
+      autoLogAppEvents : true,
+      xfbml            : true,
+      version          : 'v2.9'
+    });
+    FB.AppEvents.logPageView();
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+
+<div id="wrap">
+<div id="header">
+<a href="/"><img src="/images/the-numbers-banner.png" alt="The Numbers - Where Data and Movies Meet" width=524 height=67 border=0>&reg;
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Where Data and the Movie Business Meet
+</a>
+</div>
+<div id="header_right" style="background: #663366; width:200px; height: 96px;">
+<div style="float:right;">
+Follow us on
+<a href="http://www.facebook.com/TheNumbers" target="_blank"><img style="border:none;" title="Follow The Numbers on Facebook" src="http://www.the-numbers.com/images/icons/facebook.png" width="32" height="32" /></a>
+<a href="http://www.twitter.com/MovieNumbers" target="_blank" title="Follow The Numbers on Twitter"><img style="border:none;" src="http://www.the-numbers.com/images/icons/twitter.png" width="32" height="32" /></a>
+</div>
+</div>
+<div id="nav">
+<ul>
+<li><a href="/news">News</a>
+	<ul>
+	<li><a href="/news">Latest News</a></li>
+	<li><a href="/movies/release-schedule">Release Schedule</a></li>
+	<li><a href="/on-this-day">On This Day</a></li>
+	</ul>
+</li>
+<li><a href="/box-office">Box Office</a>
+	<ul>
+	<li><a href="/daily-box-office-chart">Daily Chart</a></li>
+	<li><a href="/weekend-box-office-chart">Weekend Chart</a></li>
+	<li><a href="/weekly-box-office-chart">Weekly Chart</a></li>
+	<li><a href="/market/">Theatrical Market</a></li>
+	<li><a href="/international-charts-overview">International Charts</a></li>
+	<li><a href="/box-office-records/">Records</a></li>
+	<li><a href="/box-office">Chart Index</a></li>
+	<li><a href="/movies/release-schedule">Release Schedule</a></li>
+<li><a href="/box-office-records/worldwide/all-movies/cumulative/released-in-2017">2017 Worldwide</a></li>
+	</ul>
+</li>
+<li><a href="/weekly-dvd-sales-chart">Home Video</a>
+	<ul>
+	<li><a href="/weekly-dvd-sales-chart">Weekly DVD Chart</a></li>
+	<li><a href="/weekly-bluray-sales-chart">Weekly Blu-ray Chart</a></li>
+	<li><a href="/weekly-video-sales-chart">Weekly Combined DVD+Blu-ray Chart</a></li>
+<li><a href="/home-market/dvd-sales/2017">2017 DVD Chart</a></li>
+<li><a href="/home-market/bluray-sales/2017">2017 Blu-ray Chart</a></li>
+<li><a href="/home-market/packaged-media-sales/2017">2017 Combined Chart</a></li>
+	<li><a href="/alltime-bluray-sales-chart">All-Time Blu-ray</a></li>
+	<li><a href="/home-market/release-schedule">Release Schedule</a></li>
+	<li><a href="/home-market/distributors">Distributors</a></li>
+	</ul>
+</li>
+<li><a href="/movies">Movies</a>
+	<ul>
+		<li><a href="/movie/budgets">Budgets and Finances</a></li>
+		<li><a href="/movies/franchises">Franchises</a></li>
+		<li><a href="/keywords">Keywords</a></li>
+		<li><a href="/movies">Movie Index</a></li>
+		<li><a href="/movies/release-schedule">Release Schedule</a></li>
+		<li><a href="/movies/most-anticipated">Most Anticipated</a></li>
+		<li><a href="/movies/trending">Trending Movies</a></li>
+		<li><a href="/movies/production-companies/">Production Companies</a></li>
+		<li><a href="/movies/production-countries/">Production Countries</a></li>
+		<li><a href="/movies/comparisons">Comparisons</a></li>
+		<li><a href="/movies/report-builder">Report Builder</a></li>
+	</ul>
+</li>
+<li><a href="/people">People</a>
+	<ul>
+		<li><a href="/bankability">Bankability</a></li>
+		<li><a href="/people/records">Domestic Records</a></li>
+		<li><a href="/people/worldwide-records">Worldwide Records</a></li>
+		<li><a href="/people">People Index</a></li>
+		<li><a href="/people/trending">Trending People</a></li>
+<li><a href="/people/records/highest-grossing-stars/2017">Highest Grossing Stars of 2017</a></li>
+	</ul>
+</li>
+<li><a href="/oscars">Oscars</a>
+</li>
+<li><a href="/research-analysis">Research & Data</a>
+</li>
+</ul>
+</div>
+<div id="banneradnew">
+<!--<div id="ad301">-->
+<script type="text/javascript"><!--
+e9 = new Object();
+e9.size = "728x90,970x250";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TheNumbers/ROS/tags.js"></script>
+<!--</div>-->
+</div>
+<div id="main"><div id="page_filling_chart">
+<div class="alignright" style="margin: 16px 0px -16px 0px;">
+<ul id="social_horizontal">
+	<li>
+		<a rel="nofollow" href="https://twitter.com/share" class="twitter-share-button" data-text="The Numbers - Movie Budgets" data-via="MovieNumbers"></a>
+		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+	</li>
+	<li>
+		<div class="fb-like" data-href="http://www.the-numbers.com/movie/budgets/all/1401" data-colorscheme="light" data-layout="button_count" data-action="like" data-show-faces="false" data-send="false"></div>
+	</li>	
+	<li>
+		<!-- Place this tag where you want the +1 button to render -->
+		<g:plusone size="medium"></g:plusone>
+		<!-- Place this render call where appropriate -->
+		<script type="text/javascript">
+		  (function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/plusone.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		  })();
+		</script>		
+	</li>	
+		<li>
+		<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+		<script type="IN/Share" data-counter="right"></script>		
+	</li>
+		
+</ul>
+</div><div class="clearfloats"></div>
+
+<h1>Movie Budgets (Rank 1,401-1,500)</h1>
+
+<P><B>Note:</B> Budget numbers for movies can be both difficult to find and unreliable.
+Studios and film-makers often try to keep the information secret and will use accounting tricks to inflate or reduce announced budgets.
+<P>This chart shows the budget of every film in our database, where we have it.
+The data we have is, to the best of our knowledge, accurate but there are gaps and disputed figures.
+If you have additional information or corrections, please let us know at <A HREF="mailto:corrections@the-numbers.com">corrections@the-numbers.com</A>.
+<p>
+Our movie profit and loss records, based on this budget information, can be found <a href="">here</a>. 
+<center>
+<table>
+<tr><th>&nbsp;</th><th>Release Date</th><th>Movie</th><th>Production Budget</th><th>Domestic Gross</th><th>Worldwide Gross</th></tr>
+<tr><td class="data">1</td>
+<td><a href="/box-office-chart/daily/2000/10/06">10/6/2000</a></td>
+<td><b><a href="/movie/Get-Carter#tab=summary">Get Carter</a></td>
+<td class="data">$40,000,000</td>
+<td class="data">$14,967,182</td>
+<td class="data">$19,417,182</td>
+<tr>
+<tr><td class="data">2</td>
+<td><a href="/box-office-chart/daily/1995/04/21">4/21/1995</a></td>
+<td><b><a href="/movie/Kiss-of-Death#tab=summary">Kiss of Death</a></td>
+<td class="data">$40,000,000</td>
+<td class="data">$14,942,422</td>
+<td class="data">$14,942,422</td>
+<tr>
+<tr><td class="data">3</td>
+<td><a href="/box-office-chart/daily/2002/04/26">4/26/2002</a></td>
+<td><b><a href="/movie/Life-or-Something-Like-It#tab=summary">Life, or Something Like It</a></td>
+<td class="data">$40,000,000</td>
+<td class="data">$14,448,589</td>
+<td class="data">$14,448,589</td>
+<tr>
+<tr><td class="data">4</td>
+<td><a href="/box-office-chart/daily/1987/05/15">5/15/1987</a></td>
+<td><b><a href="/movie/Ishtar#tab=summary">Ishtar</a></td>
+<td class="data">$40,000,000</td>
+<td class="data">$14,375,181</td>
+<td class="data">$14,375,181</td>
+<tr>
+<tr><td class="data">5</td>
+<td><a href="/box-office-chart/daily/1992/02/28">2/28/1992</a></td>
+<td><b><a href="/movie/Memoirs-of-an-Invisible-Man#tab=summary">Memoirs of an Invisible Man</a></td>
+<td class="data">$40,000,000</td>
+<td class="data">$14,358,033</td>
+<td class="data">$14,358,033</td>
+<tr>
+<tr><td class="data">6</td>
+<td><a href="/box-office-chart/daily/2009/10/23">10/23/2009</a></td>
+<td><b><a href="/movie/Amelia#tab=summary">Amelia</a></td>
+<td class="data">$40,000,000</td>
+<td class="data">$14,279,575</td>
+<td class="data">$19,756,077</td>
+<tr>
+<tr><td class="data">7</td>
+<td><a href="/box-office-chart/daily/2009/10/23">10/23/2009</a></td>
+<td><b><a href="/movie/Vampires-Assistant-The#tab=summary">Cirque du Freak: The Vampire's Assistant</a></td>
+<td class="data">$40,000,000</td>
+<td class="data">$14,046,595</td>
+<td class="data">$39,753,957</td>
+<tr>
+<tr><td class="data">8</td>
+<td><a href="/box-office-chart/daily/2004/05/07">5/7/2004</a></td>
+<td><b><a href="/movie/New-York-Minute#tab=summary">New York Minute</a></td>
+<td class="data">$40,000,000</td>
+<td class="data">$14,018,364</td>
+<td class="data">$21,215,882</td>
+<tr>
+<tr><td class="data">9</td>
+<td><a href="/box-office-chart/daily/1999/03/12">3/12/1999</a></td>
+<td><b><a href="/movie/Deep-End-of-the-Ocean-The#tab=summary">The Deep End of the Ocean</a></td>
+<td class="data">$40,000,000</td>
+<td class="data">$13,508,635</td>
+<td class="data">$13,508,635</td>
+<tr>
+<tr><td class="data">10</td>
+<td><a href="/box-office-chart/daily/2004/11/05">11/5/2004</a></td>
+<td><b><a href="/movie/Alfie-(2004)#tab=summary">Alfie</a></td>
+<td class="data">$40,000,000</td>
+<td class="data">$13,395,939</td>
+<td class="data">$35,195,939</td>
+<tr>
+<tr><td class="data">11</td>
+<td><a href="/box-office-chart/daily/2002/08/30">8/30/2002</a></td>
+<td><b><a href="/movie/FearDotCom#tab=summary">FearDotCom</a></td>
+<td class="data">$40,000,000</td>
+<td class="data">$13,208,023</td>
+<td class="data">$13,208,023</td>
+<tr>
+<tr><td class="data">12</td>
+<td><a href="/box-office-chart/daily/2008/11/07">11/7/2008</a></td>
+<td><b><a href="/movie/Soul-Men#tab=summary">Soul Men</a></td>
+<td class="data">$40,000,000</td>
+<td class="data">$12,082,391</td>
+<td class="data">$12,345,883</td>
+<tr>
+<tr><td class="data">13</td>
+<td><a href="/box-office-chart/daily/2015/03/20">3/20/2015</a></td>
+<td><b><a href="/movie/Gunman-The#tab=summary">The Gunman</a></td>
+<td class="data">$40,000,000</td>
+<td class="data">$10,664,749</td>
+<td class="data">$13,644,292</td>
+<tr>
+<tr><td class="data">14</td>
+<td><a href="/box-office-chart/daily/1999/08/20">8/20/1999</a></td>
+<td><b><a href="/movie/Universal-Soldier-II-The-Return#tab=summary">Universal Soldier II: The Return</a></td>
+<td class="data">$40,000,000</td>
+<td class="data">$10,447,421</td>
+<td class="data">$10,717,421</td>
+<tr>
+<tr><td class="data">15</td>
+<td><a href="/box-office-chart/daily/2009/09/25">9/25/2009</a></td>
+<td><b><a href="/movie/Pandorum#tab=summary">Pandorum</a></td>
+<td class="data">$40,000,000</td>
+<td class="data">$10,330,853</td>
+<td class="data">$17,033,431</td>
+<tr>
+<tr><td class="data">16</td>
+<td><a href="/box-office-chart/daily/2003/09/26">9/26/2003</a></td>
+<td><b><a href="/movie/Duplex#tab=summary">Duplex</a></td>
+<td class="data">$40,000,000</td>
+<td class="data">$9,652,000</td>
+<td class="data">$10,070,651</td>
+<tr>
+<tr><td class="data">17</td>
+<td><a href="/box-office-chart/daily/2013/08/16">8/16/2013</a></td>
+<td><b><a href="/movie/Paranoia#tab=summary">Paranoia</a></td>
+<td class="data">$40,000,000</td>
+<td class="data">$7,388,654</td>
+<td class="data">$16,173,593</td>
+<tr>
+<tr><td class="data">18</td>
+<td><a href="/box-office-chart/daily/1980/08/01">8/1/1980</a></td>
+<td><b><a href="/movie/Raise-the-Titanic#tab=summary">Raise the Titanic</a></td>
+<td class="data">$40,000,000</td>
+<td class="data">$7,000,000</td>
+<td class="data">$7,000,000</td>
+<tr>
+<tr><td class="data">19</td>
+<td><a href="/box-office-chart/daily/2015/07/10">7/10/2015</a></td>
+<td><b><a href="/movie/Baahubali-The-Beginning-(India)#tab=summary">Baahubali: The Beginning</a></td>
+<td class="data">$40,000,000</td>
+<td class="data">$6,738,000</td>
+<td class="data">$26,736,665</td>
+<tr>
+<tr><td class="data">20</td>
+<td><a href="/box-office-chart/daily/2002/01/04">1/4/2002</a></td>
+<td><b><a href="/movie/Impostor#tab=summary">Impostor</a></td>
+<td class="data">$40,000,000</td>
+<td class="data">$6,114,237</td>
+<td class="data">$7,974,607</td>
+<tr>
+<tr><td class="data">21</td>
+<td><a href="/box-office-chart/daily/2015/11/25">11/25/2015</a></td>
+<td><b><a href="/movie/Victor-Frankenstein#tab=summary">Victor Frankenstein</a></td>
+<td class="data">$40,000,000</td>
+<td class="data">$5,775,076</td>
+<td class="data">$33,175,076</td>
+<tr>
+<tr><td class="data">22</td>
+<td><a href="/box-office-chart/daily/2002/11/27">11/27/2002</a></td>
+<td><b><a href="/movie/Extreme-Ops#tab=summary">Extreme Ops</a></td>
+<td class="data">$40,000,000</td>
+<td class="data">$4,835,968</td>
+<td class="data">$12,624,471</td>
+<tr>
+<tr><td class="data">23</td>
+<td><a href="/box-office-chart/daily/2001/04/06">4/6/2001</a></td>
+<td><b><a href="/movie/Just-Visiting#tab=summary">Just Visiting</a></td>
+<td class="data">$40,000,000</td>
+<td class="data">$4,777,007</td>
+<td class="data">$16,172,200</td>
+<tr>
+<tr><td class="data">24</td>
+<td><a href="/box-office-chart/daily/2014/06/27">6/27/2014</a></td>
+<td><b><a href="/movie/Snowpiercer#tab=summary">Snowpiercer</a></td>
+<td class="data">$40,000,000</td>
+<td class="data">$4,563,029</td>
+<td class="data">$88,069,880</td>
+<tr>
+<tr><td class="data">25</td>
+<td><a href="/box-office-chart/daily/2007/07/20">7/20/2007</a></td>
+<td><b><a href="/movie/Sunshine-(2006)#tab=summary">Sunshine</a></td>
+<td class="data">$40,000,000</td>
+<td class="data">$3,688,560</td>
+<td class="data">$32,030,610</td>
+<tr>
+<tr><td class="data">26</td>
+<td><a href="/box-office-chart/daily/1994/03/11">3/11/1994</a></td>
+<td><b><a href="/movie/Hudsucker-Proxy-The#tab=summary">The Hudsucker Proxy</a></td>
+<td class="data">$40,000,000</td>
+<td class="data">$2,816,518</td>
+<td class="data">$14,938,149</td>
+<tr>
+<tr><td class="data">27</td>
+<td><a href="/box-office-chart/daily/2016/11/11">11/11/2016</a></td>
+<td><b><a href="/movie/Billy-Lynns-Long-Halftime-Walk#tab=summary">Billy Lynn’s Long Halftime Walk</a></td>
+<td class="data">$40,000,000</td>
+<td class="data">$1,738,477</td>
+<td class="data">$25,863,458</td>
+<tr>
+<tr><td class="data">28</td>
+<td><a href="/box-office-chart/daily/1986/07/01">7/1/1986</a></td>
+<td><b><a href="/movie/Pirates#tab=summary">Pirates</a></td>
+<td class="data">$40,000,000</td>
+<td class="data">$1,641,825</td>
+<td class="data">$6,341,825</td>
+<tr>
+<tr><td class="data">29</td>
+<td><a href="/box-office-chart/daily/2008/12/12">12/12/2008</a></td>
+<td><b><a href="/movie/Delgo#tab=summary">Delgo</a></td>
+<td class="data">$40,000,000</td>
+<td class="data">$915,840</td>
+<td class="data">$915,840</td>
+<tr>
+<tr><td class="data">30</td>
+<td><a href="/box-office-chart/daily/2007/09/07">9/7/2007</a></td>
+<td><b><a href="/movie/Hunting-Party-The#tab=summary">The Hunting Party</a></td>
+<td class="data">$40,000,000</td>
+<td class="data">$876,671</td>
+<td class="data">$7,729,552</td>
+<tr>
+<tr><td class="data">31</td>
+<td><a href="/box-office-chart/daily/2006/10/13">10/13/2006</a></td>
+<td><b><a href="/movie/Alex-Rider-Operation-Stormbreaker#tab=summary">Alex Rider: Operation Stormbreaker</a></td>
+<td class="data">$40,000,000</td>
+<td class="data">$659,210</td>
+<td class="data">$20,722,450</td>
+<tr>
+<tr><td class="data">32</td>
+<td><a href="/box-office-chart/daily/2009/11/20">11/20/2009</a></td>
+<td><b><a href="/movie/Red-Cliff#tab=summary">Red Cliff</a></td>
+<td class="data">$40,000,000</td>
+<td class="data">$627,047</td>
+<td class="data">$119,627,047</td>
+<tr>
+<tr><td class="data">33</td>
+<td><a href="/box-office-chart/daily/2004/09/24">9/24/2004</a></td>
+<td><b><a href="/movie/Last-Shot-The#tab=summary">The Last Shot</a></td>
+<td class="data">$40,000,000</td>
+<td class="data">$463,730</td>
+<td class="data">$463,730</td>
+<tr>
+<tr><td class="data">34</td>
+<td><a href="/box-office-chart/daily/2010/04/02">4/2/2010</a></td>
+<td><b><a href="/movie/Warlords-The#tab=summary">The Warlords</a></td>
+<td class="data">$40,000,000</td>
+<td class="data">$129,078</td>
+<td class="data">$38,899,792</td>
+<tr>
+<tr><td class="data">35</td>
+<td><a href="/box-office-chart/daily/2007/03/16">3/16/2007</a></td>
+<td><b><a href="/movie/Nomad#tab=summary">Nomad</a></td>
+<td class="data">$40,000,000</td>
+<td class="data">$79,123</td>
+<td class="data">$79,123</td>
+<tr>
+<tr><td class="data">36</td>
+<td><a href="/box-office-chart/daily/2013/04/16">4/16/2013</a></td>
+<td><b><a href="/movie/monstre-a-Paris-Un#tab=summary">Un monstre à Paris </a></td>
+<td class="data">$40,000,000</td>
+<td class="data">$0</td>
+<td class="data">$27,000,381</td>
+<tr>
+<tr><td class="data">37</td>
+<td><a href="/box-office-chart/daily/2016/11/11">11/11/2016</a></td>
+<td><b><a href="/movie/USS-Indianapolis-Men-of-Courage#tab=summary">USS Indianapolis: Men of Courage</a></td>
+<td class="data">$40,000,000</td>
+<td class="data">$0</td>
+<td class="data">$1,641,255</td>
+<tr>
+<tr><td class="data">38</td>
+<td><a href="/box-office-chart/daily/2014/12/31">12/31/2014</a></td>
+<td><b><a href="/movie/Dragon-Nest-Warriors-Dawn-(China)#tab=summary">Dragon Nest Warriors' Dawn</a></td>
+<td class="data">$40,000,000</td>
+<td class="data">$0</td>
+<td class="data">$196,090</td>
+<tr>
+<tr><td class="data">39</td>
+<td><a href="/box-office-chart/daily/2015/12/31">12/31/2015</a></td>
+<td><b><a href="/movie/Crow-The-(Remake)#tab=summary">The Crow</a></td>
+<td class="data">$40,000,000</td>
+<td class="data">$0</td>
+<td class="data">$0</td>
+<tr>
+<tr><td class="data">40</td>
+<td><a href="/box-office-chart/daily/2009/08/14">8/14/2009</a></td>
+<td><b><a href="/movie/Time-Travelers-Wife-The#tab=summary">The Time Traveler's Wife</a></td>
+<td class="data">$39,000,000</td>
+<td class="data">$63,414,846</td>
+<td class="data">$102,332,135</td>
+<tr>
+<tr><td class="data">41</td>
+<td><a href="/box-office-chart/daily/1983/06/17">6/17/1983</a></td>
+<td><b><a href="/movie/Superman-III#tab=summary">Superman III</a></td>
+<td class="data">$39,000,000</td>
+<td class="data">$59,950,623</td>
+<td class="data">$59,950,623</td>
+<tr>
+<tr><td class="data">42</td>
+<td><a href="/box-office-chart/daily/2007/02/02">2/2/2007</a></td>
+<td><b><a href="/movie/Because-I-Said-So#tab=summary">Because I Said So</a></td>
+<td class="data">$39,000,000</td>
+<td class="data">$42,674,040</td>
+<td class="data">$69,538,833</td>
+<tr>
+<tr><td class="data">43</td>
+<td><a href="/box-office-chart/daily/2012/10/05">10/5/2012</a></td>
+<td><b><a href="/movie/Frankenweenie#tab=summary">Frankenweenie</a></td>
+<td class="data">$39,000,000</td>
+<td class="data">$35,287,788</td>
+<td class="data">$81,150,788</td>
+<tr>
+<tr><td class="data">44</td>
+<td><a href="/box-office-chart/daily/1996/03/29">3/29/1996</a></td>
+<td><b><a href="/movie/Sgt-Bilko#tab=summary">Sgt. Bilko</a></td>
+<td class="data">$39,000,000</td>
+<td class="data">$30,356,589</td>
+<td class="data">$37,956,589</td>
+<tr>
+<tr><td class="data">45</td>
+<td><a href="/box-office-chart/daily/2005/09/30">9/30/2005</a></td>
+<td><b><a href="/movie/Serenity#tab=summary">Serenity</a></td>
+<td class="data">$39,000,000</td>
+<td class="data">$25,514,517</td>
+<td class="data">$40,319,440</td>
+<tr>
+<tr><td class="data">46</td>
+<td><a href="/box-office-chart/daily/2004/02/20">2/20/2004</a></td>
+<td><b><a href="/movie/Against-the-Ropes#tab=summary">Against the Ropes</a></td>
+<td class="data">$39,000,000</td>
+<td class="data">$5,881,504</td>
+<td class="data">$6,429,865</td>
+<tr>
+<tr><td class="data">47</td>
+<td><a href="/box-office-chart/daily/2013/08/23">8/23/2013</a></td>
+<td><b><a href="/movie/Yi-dai-zong-shi#tab=summary">Yi dai zong shi</a></td>
+<td class="data">$38,600,000</td>
+<td class="data">$6,594,959</td>
+<td class="data">$57,987,299</td>
+<tr>
+<tr><td class="data">48</td>
+<td><a href="/box-office-chart/daily/2001/06/22">6/22/2001</a></td>
+<td><b><a href="/movie/Fast-and-the-Furious-The#tab=summary">The Fast and the Furious</a></td>
+<td class="data">$38,000,000</td>
+<td class="data">$144,512,310</td>
+<td class="data">$206,512,310</td>
+<tr>
+<tr><td class="data">49</td>
+<td><a href="/box-office-chart/daily/2002/09/27">9/27/2002</a></td>
+<td><b><a href="/movie/Sweet-Home-Alabama#tab=summary">Sweet Home Alabama</a></td>
+<td class="data">$38,000,000</td>
+<td class="data">$127,214,072</td>
+<td class="data">$182,365,114</td>
+<tr>
+<tr><td class="data">50</td>
+<td><a href="/box-office-chart/daily/2009/07/24">7/24/2009</a></td>
+<td><b><a href="/movie/Ugly-Truth-The#tab=summary">The Ugly Truth</a></td>
+<td class="data">$38,000,000</td>
+<td class="data">$88,915,214</td>
+<td class="data">$205,298,907</td>
+<tr>
+<tr><td class="data">51</td>
+<td><a href="/box-office-chart/daily/2002/08/07">8/7/2002</a></td>
+<td><b><a href="/movie/Spy-Kids-2-The-Island-of-Lost-Dreams#tab=summary">Spy Kids 2: The Island of Lost Dreams</a></td>
+<td class="data">$38,000,000</td>
+<td class="data">$85,846,296</td>
+<td class="data">$119,721,296</td>
+<tr>
+<tr><td class="data">52</td>
+<td><a href="/box-office-chart/daily/1994/11/18">11/18/1994</a></td>
+<td><b><a href="/movie/Star-Trek-Generations#tab=summary">Star Trek: Generations</a></td>
+<td class="data">$38,000,000</td>
+<td class="data">$75,671,262</td>
+<td class="data">$120,000,000</td>
+<tr>
+<tr><td class="data">53</td>
+<td><a href="/box-office-chart/daily/2017/06/02">6/2/2017</a></td>
+<td><b><a href="/movie/Captain-Underpants-The-First-Epic-Movie#tab=summary">Captain Underpants: The First Epic Movie</a></td>
+<td class="data">$38,000,000</td>
+<td class="data">$73,863,410</td>
+<td class="data">$110,363,410</td>
+<tr>
+<tr><td class="data">54</td>
+<td><a href="/box-office-chart/daily/2015/04/17">4/17/2015</a></td>
+<td><b><a href="/movie/Paul-Blart-Mall-Cop-2#tab=summary">Paul Blart: Mall Cop 2</a></td>
+<td class="data">$38,000,000</td>
+<td class="data">$71,038,190</td>
+<td class="data">$107,597,242</td>
+<tr>
+<tr><td class="data">55</td>
+<td><a href="/box-office-chart/daily/1997/12/19">12/19/1997</a></td>
+<td><b><a href="/movie/Mouse-Hunt#tab=summary">Mouse Hunt</a></td>
+<td class="data">$38,000,000</td>
+<td class="data">$61,894,591</td>
+<td class="data">$61,894,591</td>
+<tr>
+<tr><td class="data">56</td>
+<td><a href="/box-office-chart/daily/2016/12/23">12/23/2016</a></td>
+<td><b><a href="/movie/Why-Him#tab=summary">Why Him?</a></td>
+<td class="data">$38,000,000</td>
+<td class="data">$60,323,786</td>
+<td class="data">$117,523,786</td>
+<tr>
+<tr><td class="data">57</td>
+<td><a href="/box-office-chart/daily/2011/04/22">4/22/2011</a></td>
+<td><b><a href="/movie/Water-for-Elephants#tab=summary">Water for Elephants</a></td>
+<td class="data">$38,000,000</td>
+<td class="data">$58,709,717</td>
+<td class="data">$116,809,717</td>
+<tr>
+<tr><td class="data">58</td>
+<td><a href="/box-office-chart/daily/2010/10/08">10/8/2010</a></td>
+<td><b><a href="/movie/Life-as-We-Know-It#tab=summary">Life as We Know It</a></td>
+<td class="data">$38,000,000</td>
+<td class="data">$53,374,681</td>
+<td class="data">$105,887,837</td>
+<tr>
+<tr><td class="data">59</td>
+<td><a href="/box-office-chart/daily/1999/12/29">12/29/1999</a></td>
+<td><b><a href="/movie/Hurricane-The#tab=summary">The Hurricane</a></td>
+<td class="data">$38,000,000</td>
+<td class="data">$50,699,241</td>
+<td class="data">$73,956,241</td>
+<tr>
+<tr><td class="data">60</td>
+<td><a href="/box-office-chart/daily/2013/09/06">9/6/2013</a></td>
+<td><b><a href="/movie/Riddick#tab=summary">Riddick</a></td>
+<td class="data">$38,000,000</td>
+<td class="data">$42,025,135</td>
+<td class="data">$94,763,758</td>
+<tr>
+<tr><td class="data">61</td>
+<td><a href="/box-office-chart/daily/2001/03/23">3/23/2001</a></td>
+<td><b><a href="/movie/Heartbreakers#tab=summary">Heartbreakers</a></td>
+<td class="data">$38,000,000</td>
+<td class="data">$40,334,024</td>
+<td class="data">$57,753,825</td>
+<tr>
+<tr><td class="data">62</td>
+<td><a href="/box-office-chart/daily/2002/05/24">5/24/2002</a></td>
+<td><b><a href="/movie/Enough#tab=summary">Enough</a></td>
+<td class="data">$38,000,000</td>
+<td class="data">$39,177,215</td>
+<td class="data">$50,970,660</td>
+<tr>
+<tr><td class="data">63</td>
+<td><a href="/box-office-chart/daily/2016/01/22">1/22/2016</a></td>
+<td><b><a href="/movie/5th-Wave-The#tab=summary">The 5th Wave</a></td>
+<td class="data">$38,000,000</td>
+<td class="data">$34,912,982</td>
+<td class="data">$111,336,398</td>
+<tr>
+<tr><td class="data">64</td>
+<td><a href="/box-office-chart/daily/2009/02/06">2/6/2009</a></td>
+<td><b><a href="/movie/Push#tab=summary">Push</a></td>
+<td class="data">$38,000,000</td>
+<td class="data">$31,811,527</td>
+<td class="data">$44,411,527</td>
+<tr>
+<tr><td class="data">65</td>
+<td><a href="/box-office-chart/daily/2013/09/20">9/20/2013</a></td>
+<td><b><a href="/movie/Rush-(2013)#tab=summary">Rush</a></td>
+<td class="data">$38,000,000</td>
+<td class="data">$26,947,624</td>
+<td class="data">$98,230,839</td>
+<tr>
+<tr><td class="data">66</td>
+<td><a href="/box-office-chart/daily/2001/05/18">5/18/2001</a></td>
+<td><b><a href="/movie/Angel-Eyes#tab=summary">Angel Eyes</a></td>
+<td class="data">$38,000,000</td>
+<td class="data">$24,044,532</td>
+<td class="data">$29,544,532</td>
+<tr>
+<tr><td class="data">67</td>
+<td><a href="/box-office-chart/daily/2001/12/21">12/21/2001</a></td>
+<td><b><a href="/movie/Joe-Somebody#tab=summary">Joe Somebody</a></td>
+<td class="data">$38,000,000</td>
+<td class="data">$22,770,864</td>
+<td class="data">$24,515,990</td>
+<tr>
+<tr><td class="data">68</td>
+<td><a href="/box-office-chart/daily/2000/03/10">3/10/2000</a></td>
+<td><b><a href="/movie/Ninth-Gate-The#tab=summary">The Ninth Gate</a></td>
+<td class="data">$38,000,000</td>
+<td class="data">$18,653,746</td>
+<td class="data">$58,394,308</td>
+<tr>
+<tr><td class="data">69</td>
+<td><a href="/box-office-chart/daily/1996/09/27">9/27/1996</a></td>
+<td><b><a href="/movie/Extreme-Measures#tab=summary">Extreme Measures</a></td>
+<td class="data">$38,000,000</td>
+<td class="data">$17,378,193</td>
+<td class="data">$17,378,193</td>
+<tr>
+<tr><td class="data">70</td>
+<td><a href="/box-office-chart/daily/2001/09/07">9/7/2001</a></td>
+<td><b><a href="/movie/Rock-Star#tab=summary">Rock Star</a></td>
+<td class="data">$38,000,000</td>
+<td class="data">$16,991,902</td>
+<td class="data">$19,317,765</td>
+<tr>
+<tr><td class="data">71</td>
+<td><a href="/box-office-chart/daily/2011/10/14">10/14/2011</a></td>
+<td><b><a href="/movie/Thing-The-(2011)#tab=summary">The Thing</a></td>
+<td class="data">$38,000,000</td>
+<td class="data">$16,928,670</td>
+<td class="data">$27,501,814</td>
+<tr>
+<tr><td class="data">72</td>
+<td><a href="/box-office-chart/daily/1996/02/02">2/2/1996</a></td>
+<td><b><a href="/movie/White-Squall#tab=summary">White Squall</a></td>
+<td class="data">$38,000,000</td>
+<td class="data">$10,229,300</td>
+<td class="data">$10,229,300</td>
+<tr>
+<tr><td class="data">73</td>
+<td><a href="/box-office-chart/daily/2008/10/10">10/10/2008</a></td>
+<td><b><a href="/movie/City-of-Ember#tab=summary">City of Ember</a></td>
+<td class="data">$38,000,000</td>
+<td class="data">$7,871,693</td>
+<td class="data">$17,830,244</td>
+<tr>
+<tr><td class="data">74</td>
+<td><a href="/box-office-chart/daily/1997/10/31">10/31/1997</a></td>
+<td><b><a href="/movie/Switchback#tab=summary">Switchback</a></td>
+<td class="data">$38,000,000</td>
+<td class="data">$6,504,442</td>
+<td class="data">$6,504,442</td>
+<tr>
+<tr><td class="data">75</td>
+<td><a href="/box-office-chart/daily/2001/11/30">11/30/2001</a></td>
+<td><b><a href="/movie/Texas-Rangers#tab=summary">Texas Rangers</a></td>
+<td class="data">$38,000,000</td>
+<td class="data">$623,374</td>
+<td class="data">$623,374</td>
+<tr>
+<tr><td class="data">76</td>
+<td><a href="/box-office-chart/daily/2008/08/26">8/26/2008</a></td>
+<td><b><a href="/movie/Virgin-Territory#tab=summary">Virgin Territory</a></td>
+<td class="data">$38,000,000</td>
+<td class="data">$0</td>
+<td class="data">$5,473,041</td>
+<tr>
+<tr><td class="data">77</td>
+<td><a href="/box-office-chart/daily/2012/05/18">5/18/2012</a></td>
+<td><b><a href="/movie/What-to-Expect-When-Your-Expecting#tab=summary">What to Expect When You're Expecting</a></td>
+<td class="data">$37,500,000</td>
+<td class="data">$41,152,203</td>
+<td class="data">$120,925,697</td>
+<tr>
+<tr><td class="data">78</td>
+<td><a href="/box-office-chart/daily/2012/09/14">9/14/2012</a></td>
+<td><b><a href="/movie/Master-The#tab=summary">The Master</a></td>
+<td class="data">$37,500,000</td>
+<td class="data">$16,247,159</td>
+<td class="data">$58,792,011</td>
+<tr>
+<tr><td class="data">79</td>
+<td><a href="/box-office-chart/daily/2008/10/10">10/10/2008</a></td>
+<td><b><a href="/movie/Express-The#tab=summary">The Express</a></td>
+<td class="data">$37,500,000</td>
+<td class="data">$9,793,406</td>
+<td class="data">$9,813,309</td>
+<tr>
+<tr><td class="data">80</td>
+<td><a href="/box-office-chart/daily/2008/11/21">11/21/2008</a></td>
+<td><b><a href="/movie/Twilight-(2008)#tab=summary">Twilight</a></td>
+<td class="data">$37,000,000</td>
+<td class="data">$192,769,854</td>
+<td class="data">$402,280,159</td>
+<tr>
+<tr><td class="data">81</td>
+<td><a href="/box-office-chart/daily/2013/08/07">8/7/2013</a></td>
+<td><b><a href="/movie/Were-the-Millers#tab=summary">We're the Millers</a></td>
+<td class="data">$37,000,000</td>
+<td class="data">$150,394,119</td>
+<td class="data">$267,816,276</td>
+<tr>
+<tr><td class="data">82</td>
+<td><a href="/box-office-chart/daily/2015/11/25">11/25/2015</a></td>
+<td><b><a href="/movie/Creed#tab=summary">Creed</a></td>
+<td class="data">$37,000,000</td>
+<td class="data">$109,767,581</td>
+<td class="data">$173,567,581</td>
+<tr>
+<tr><td class="data">83</td>
+<td><a href="/box-office-chart/daily/2010/09/17">9/17/2010</a></td>
+<td><b><a href="/movie/Town-The#tab=summary">The Town</a></td>
+<td class="data">$37,000,000</td>
+<td class="data">$92,186,262</td>
+<td class="data">$152,566,881</td>
+<tr>
+<tr><td class="data">84</td>
+<td><a href="/box-office-chart/daily/2011/09/23">9/23/2011</a></td>
+<td><b><a href="/movie/Dolphin-Tale#tab=summary">Dolphin Tale</a></td>
+<td class="data">$37,000,000</td>
+<td class="data">$72,286,779</td>
+<td class="data">$96,068,724</td>
+<tr>
+<tr><td class="data">85</td>
+<td><a href="/box-office-chart/daily/2008/09/12">9/12/2008</a></td>
+<td><b><a href="/movie/Burn-After-Reading#tab=summary">Burn After Reading</a></td>
+<td class="data">$37,000,000</td>
+<td class="data">$60,355,347</td>
+<td class="data">$168,167,798</td>
+<tr>
+<tr><td class="data">86</td>
+<td><a href="/box-office-chart/daily/2008/04/04">4/4/2008</a></td>
+<td><b><a href="/movie/Nims-Island#tab=summary">Nim's Island</a></td>
+<td class="data">$37,000,000</td>
+<td class="data">$48,006,762</td>
+<td class="data">$101,857,425</td>
+<tr>
+<tr><td class="data">87</td>
+<td><a href="/box-office-chart/daily/2016/02/12">2/12/2016</a></td>
+<td><b><a href="/movie/How-to-be-Single#tab=summary">How to be Single</a></td>
+<td class="data">$37,000,000</td>
+<td class="data">$46,843,513</td>
+<td class="data">$99,595,932</td>
+<tr>
+<tr><td class="data">88</td>
+<td><a href="/box-office-chart/daily/2010/02/26">2/26/2010</a></td>
+<td><b><a href="/movie/Cop-Out#tab=summary">Cop Out</a></td>
+<td class="data">$37,000,000</td>
+<td class="data">$44,875,481</td>
+<td class="data">$55,909,910</td>
+<tr>
+<tr><td class="data">89</td>
+<td><a href="/box-office-chart/daily/2011/01/28">1/28/2011</a></td>
+<td><b><a href="/movie/Rite-The#tab=summary">The Rite</a></td>
+<td class="data">$37,000,000</td>
+<td class="data">$33,047,633</td>
+<td class="data">$97,143,987</td>
+<tr>
+<tr><td class="data">90</td>
+<td><a href="/box-office-chart/daily/2008/07/18">7/18/2008</a></td>
+<td><b><a href="/movie/Space-Chimps#tab=summary">Space Chimps</a></td>
+<td class="data">$37,000,000</td>
+<td class="data">$30,105,968</td>
+<td class="data">$67,029,956</td>
+<tr>
+<tr><td class="data">91</td>
+<td><a href="/box-office-chart/daily/1999/12/17">12/17/1999</a></td>
+<td><b><a href="/movie/Magnolia#tab=summary">Magnolia</a></td>
+<td class="data">$37,000,000</td>
+<td class="data">$22,450,975</td>
+<td class="data">$48,446,802</td>
+<tr>
+<tr><td class="data">92</td>
+<td><a href="/box-office-chart/daily/2015/05/29">5/29/2015</a></td>
+<td><b><a href="/movie/Aloha#tab=summary">Aloha</a></td>
+<td class="data">$37,000,000</td>
+<td class="data">$21,052,030</td>
+<td class="data">$24,935,799</td>
+<tr>
+<tr><td class="data">93</td>
+<td><a href="/box-office-chart/daily/2009/12/31">12/31/2009</a></td>
+<td><b><a href="/movie/Obitaemyy-ostrov#tab=summary">Obitaemyy ostrov</a></td>
+<td class="data">$36,500,000</td>
+<td class="data">$0</td>
+<td class="data">$15,000,000</td>
+<tr>
+<tr><td class="data">94</td>
+<td><a href="/box-office-chart/daily/2011/02/11">2/11/2011</a></td>
+<td><b><a href="/movie/Gnomeo-and-Juliet#tab=summary">Gnomeo and Juliet</a></td>
+<td class="data">$36,000,000</td>
+<td class="data">$99,967,670</td>
+<td class="data">$193,737,977</td>
+<tr>
+<tr><td class="data">95</td>
+<td><a href="/box-office-chart/daily/2002/02/15">2/15/2002</a></td>
+<td><b><a href="/movie/John-Q#tab=summary">John Q</a></td>
+<td class="data">$36,000,000</td>
+<td class="data">$71,026,631</td>
+<td class="data">$102,226,631</td>
+<tr>
+<tr><td class="data">96</td>
+<td><a href="/box-office-chart/daily/1999/09/17">9/17/1999</a></td>
+<td><b><a href="/movie/Blue-Streak#tab=summary">Blue Streak</a></td>
+<td class="data">$36,000,000</td>
+<td class="data">$68,208,190</td>
+<td class="data">$117,448,157</td>
+<tr>
+<tr><td class="data">97</td>
+<td><a href="/box-office-chart/daily/1983/10/07">10/7/1983</a></td>
+<td><b><a href="/movie/Never-Say-Never-Again#tab=summary">Never Say Never Again</a></td>
+<td class="data">$36,000,000</td>
+<td class="data">$55,500,000</td>
+<td class="data">$160,000,000</td>
+<tr>
+<tr><td class="data">98</td>
+<td><a href="/box-office-chart/daily/2010/03/26">3/26/2010</a></td>
+<td><b><a href="/movie/Hot-Tub-Time-Machine#tab=summary">Hot Tub Time Machine</a></td>
+<td class="data">$36,000,000</td>
+<td class="data">$50,269,859</td>
+<td class="data">$65,967,750</td>
+<tr>
+<tr><td class="data">99</td>
+<td><a href="/box-office-chart/daily/1997/05/02">5/2/1997</a></td>
+<td><b><a href="/movie/Breakdown#tab=summary">Breakdown</a></td>
+<td class="data">$36,000,000</td>
+<td class="data">$50,159,144</td>
+<td class="data">$50,159,144</td>
+<tr>
+<tr><td class="data">100</td>
+<td><a href="/box-office-chart/daily/2014/09/12">9/12/2014</a></td>
+<td><b><a href="/movie/Dolphin-Tale-2#tab=summary">Dolphin Tale 2</a></td>
+<td class="data">$36,000,000</td>
+<td class="data">$42,024,533</td>
+<td class="data">$57,824,533</td>
+<tr>
+</table>
+</div>
+<br>
+<center>
+<div class="pagination">
+<a href="/movie/budgets/all/501">&laquo; 501-1,000</a>
+<a href="/movie/budgets/all/1001">1,001-1,100</a>
+<a href="/movie/budgets/all/1101">1,101-1,200</a>
+<a href="/movie/budgets/all/1201">1,201-1,300</a>
+<a href="/movie/budgets/all/1301">1,301-1,400</a>
+<a href="/movie/budgets/all/1401" class="active">1,401-1,500</a>
+<a href="/movie/budgets/all/1501">1,501-2,000 &raquo;</a>
+</div>
+
+</center>
+</div>
+<div id="sidebar">
+<h1>Trending Pages</h1>
+<ul style="padding: 5px;display: inline-block;font-size: 100%;">
+<li><a href="/bankability"><span style="color: #008255">Bankability Index</span></a></li>
+<li><a href="/daily-box-office-chart">Daily Box Office</a></li>
+<li><a href="/weekend-box-office-chart">Weekend Box Office</a></li>
+<li><a href="/weekly-box-office-chart">Weekly Box Office</a></li>
+<li><a href="/weekly-dvd-sales-chart">Weekly DVD Sales</a></li>
+<li><a href="/weekly-bluray-sales-chart">Weekly Blu-ray Sales</a></li>
+<li><a href="/home-market/dvd-sales/2017">Top DVDs of 2017</a></li>
+<li><a href="/home-market/bluray-sales/2017">Top Blu-rays of 2017</a></li>
+</ul>
+<ul style="padding: 5px;display: inline-block;font-size: 100%;">
+<li><a href="/movies/release-schedule">Release Schedule</a></li>
+<li><a href="/movies/comparisons/All-Time-Top-Grossing-Films">Top Grossing Films</a></li>
+<li><a href="/box-office-records/">Theatrical Records</a></li>
+<li><a href="/movie/budgets/">Movie Budgets</a></li>
+<li><a href="/market/">Theatrical Market</a></li>
+<li><a href="/movies/report-builder">Report Builder</a></li>
+<li><a href="/people/records">People Records</a></li>
+<li><a href="/people/records/highest-grossing-stars/2017">Top Stars of 2017</a></li>
+</ul>
+
+<center>
+<h1>Search</h1>
+    <form action="/search" method="get">
+		 <input type="text" name="searchterm" value="" size="36" onkeyup="if (event.keyCode == 13) { this.form.submit(); return false; }"/>
+   </form>
+<br>
+</center>
+<script type="text/javascript"><!--
+e9 = new Object();
+e9.size = "300x250";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TheNumbers/ROS/tags.js"></script>
+
+<h1><a href="/movies/most-anticipated" class="inh1">Most Anticipated Movies</a></h1>
+<ul>
+<li><a href="/movie/My-Little-Pony-The-Movie-(2017)#tab=summary">My Little Pony: The Movie</a></li>
+<li><a href="/movie/Geostorm#tab=summary">Geostorm</a></li>
+<li><a href="/movie/Thor-Ragnarok#tab=summary">Thor: Ragnarok</a></li>
+<li><a href="/movie/Cult-of-Chucky#tab=summary">Cult of Chucky</a></li>
+<li><a href="/movie/Tyler-Perrys-Boo-2-A-Madea-Halloween#tab=summary">Tyler Perry’s Boo 2! A Madea Halloween</a></li>
+<li><a href="/movie/Justice-League-(2017)#tab=summary">Justice League</a></li>
+<li><a href="/movie/Star-Wars-Ep-VIII-The-Last-Jedi#tab=summary">Star Wars Ep. VIII: The Last Jedi</a></li>
+<li><a href="/movie/Annihilation#tab=summary">Annihilation</a></li>
+<li><a href="/movie/Killing-Gunther#tab=summary">Killing Gunther</a></li>
+<li><a href="/movie/Mountain-Between-Us-The#tab=summary">The Mountain Between Us</a></li>
+</ul>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Sidebar -->
+<ins class="adsbygoogle"
+style="display:inline-block;width:336px;height:280px"
+data-ad-client="ca-pub-0505053220181058"
+data-ad-slot="9432367710"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+	
+<h1><a href="/movies/trending" class="inh1">Trending Movies</a></h1>
+<ul>
+<li><a href="/movie/xXx-Return-of-Xander-Cage#tab=summary">xXx: Return of Xander Cage</a></li>
+<li><a href="/movie/It-(2017)#tab=summary">It</a></li>
+<li><a href="/movie/Kingsman-The-Golden-Circle#tab=summary">Kingsman: The Golden Circle</a></li>
+<li><a href="/movie/American-Made#tab=summary">American Made</a></li>
+<li><a href="/movie/Spider-Man-Homecoming#tab=summary">Spider-Man: Homecoming</a></li>
+<li><a href="/movie/Black-Prince-The-(2017)#tab=summary">The Black Prince</a></li>
+<li><a href="/movie/Okja#tab=summary">Okja</a></li>
+<li><a href="/movie/Good-Catholic-The#tab=summary">The Good Catholic</a></li>
+<li><a href="/movie/Red-Haired-Alibi#tab=summary">Red-Haired Alibi </a></li>
+<li><a href="/movie/Emoji-Movie-The#tab=summary">The Emoji Movie</a></li>
+</ul>
+
+<!-- Sidebar 2 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-0505053220181058"
+	 
+     data-ad-slot="9984526117"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+	
+	
+<h1><a href="/people/trending" class="inh1">Trending People</a></h1>
+<ul style="padding: 5px;display: inline-block;font-size: 100%;">
+<li><a href="/person/540401-Tom-Cruise">Tom Cruise</a></li>
+<li><a href="/person/800030401-Martin-Curry">Martin Curry</a></li>
+<li><a href="/person/397700401-Barbara-Mesney">Barbara Mesney</a></li>
+<li><a href="/person/145480401-Claude-Van-Damme-Jean">Jean-Claude Van Damme</a></li>
+<li><a href="/person/41500401-Jr-Downey-Robert">Robert Downey, Jr.</a></li>
+</ul><ul style="padding: 5px;display: inline-block;font-size: 100%;">
+<li><a href="/person/670401-L-Jackson-Samuel">Samuel L. Jackson</a></li>
+<li><a href="/person/83860401-Stan-Lee">Stan Lee</a></li>
+<li><a href="/person/1328470401-Allen-Hall-III-Phillip">Phillip Allen Hall III</a></li>
+<li><a href="/person/150560401-Frank-Welker">Frank Welker</a></li>
+<li><a href="/person/26510401-Jackie-Chan">Jackie Chan</a></li>
+</ul>
+
+</div>
+<div id="footer">
+<B>&copy; 1997-2017 <a rel="nofollow" href="http://www.nashinfoservices.com">Nash Information Services, LLC</a>. All rights reserved.</B><BR>
+<b>The Numbers is a registered trademark of Nash Information Services, LLC</b><br>
+<B>For comments or corrections, please email us at <A HREF="mailto:corrections@the-numbers.com">corrections@the-numbers.com</A></B>
+<BR><BR>
+<A HREF="/legal/privacy.html">Privacy Policy</A> - <A HREF="/about.php">About Us</A> - <A HREF="/glossary.php">Glossary</A>
+</div>
+</div>
+<script type="text/javascript"><!--
+	e9 = new Object();
+    e9.snackbar = true;
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TheNumbers/Snackbar/tags.js"></script>
+</body>
+</html>
